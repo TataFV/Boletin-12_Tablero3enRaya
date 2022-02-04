@@ -9,13 +9,6 @@ body {
     height: 100%;
 }
 
-header {
-    background: rgb(175, 225, 175);
-    text-align: center;
-    height: max-content;
-    padding: 1em;
-}
-
 section {
     display: flex;
     flex-direction: row;
