@@ -7,6 +7,7 @@ body {
     margin: 0;
     color:#5d4f3f;
     height: 100%;
+    background-image: url(./imagenes/persian_border.png);
 }
 
 section {
@@ -132,4 +133,19 @@ border-bottom:none;
     text-align: justify;
     line-height: 1.6em;
     padding: 0 30px;
+}
+#instrucciones{
+    background-image: url(./images/persian_borderBig.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#juego{
+    background-image: url(./images/persian_borderBig.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#historia{
+    background-image: url(./images/persian_borderBig.png);
+    background-repeat: no-repeat;
+    background-position: center;
 }
